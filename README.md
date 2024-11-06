@@ -1,4 +1,4 @@
-# Kako se prijaviti v storitve @student.um.si ali @um.si
+# Kako se prijaviti v Microsoft-ove storitve z @student.um.si ali @um.si
 
 > Pomoč v "predčasno" prijavo in uporabo Microsoft-ovih storitev preko alternativne prijave (Microsoft Authenticator).
 
